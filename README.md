@@ -1,12 +1,12 @@
-# study-repository
-학습 내용 저장소
-[다 본 책]
+읽은 서적 내용을 정리하기 위한 저장소
+
+### [다 본 책]
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
-[보고 있는 책]
+### [보고 있는 책]
 - [토비의 스프링 3.1 vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=LAG&Kc=)
 - [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)
 - [객체 지향의 사실과 오해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEa&Kc=)
-[읽어야 할 책]
+### [읽어야 할 책]
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
 - [리팩터링](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242742&orderClick=LEa&Kc=)
 - [이펙티브 자바](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262281&orderClick=LEa&Kc=)
