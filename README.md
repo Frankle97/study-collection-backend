@@ -1,5 +1,3 @@
-읽은 서적 내용을 정리하기 위한 저장소
-
 ### [다 본 책]
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
 ### [보고 있는 책]
