@@ -35,3 +35,19 @@ Collection, Map, Stream, Array, Optional 은 Optional 로 Wrapping 금지
     
 -   optional.orElseThrow();
     -   값이 없을 경우 정의한 에러를 throw
+    
+---
+### 기존 Date
+기존 java.util.Date는 immutable하지 않으므로 thread-safe 하지 않았다. <br/>
+클래스 이름과 메서드 명도 명확하지 않았다. 데이트 클래스의 getTime을 하는데 시간이 아닌 날짜를 반환하는등..<br/>
+
+### 자바 8 DateTime
+자바8에서 DateTime API는 Clear, Fluent, Immutable, Extensible를 철학으로 한다.<br/>
+**Instant,**
+**LocalDateTime,**
+**ZonedDateTime**
+
+기간 표현 방법
+Period, Duration
+
+레거시 Date API에서 자바8 DateTime API로의 변환이 자유롭다
