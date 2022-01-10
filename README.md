@@ -8,6 +8,8 @@
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
 - [이펙티브 자바](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262281&orderClick=LEa&Kc=)
 - [모던 자바](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331531&barcode=9788966262755)
+- [도메인 주도 설계 핵심](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=33090105&barcode=9791161750576)
+- [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330202&barcode=9788966261024)
 - [오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331501&barcode=9791158391409)
 - [Real MySQL 8.0 1권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392703&orderClick=LEa&Kc=)
 - [Real MySQL 8.0 2권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392727&orderClick=LEa&Kc=)
@@ -18,6 +20,7 @@
 - [소프트웨어 장인](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330113&barcode=9791186659489)
 - [클린 아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LEa&Kc=)
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158&orderClick=LEa&Kc=)
+
 ### [다 본 책]
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
 ---
