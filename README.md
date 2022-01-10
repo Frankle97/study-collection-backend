@@ -3,6 +3,7 @@
 - [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)
 ### [읽어야 할 책]
 - [리팩터링](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242742&orderClick=LEa&Kc=)
+- [그림으로 공부하는 IT 인프라 구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665209&orderClick=LEa&Kc=)
 - [웹 개발자를 위한 대규모 서비스를 지탱하는 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994506128&orderClick=LEa&Kc=)
 - [토비의 스프링 3.1 vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
