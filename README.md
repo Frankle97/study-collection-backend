@@ -1,6 +1,5 @@
 ### [보고 있는 책]
 - [객체 지향의 사실과 오해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEa&Kc=)
-- [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)
 ### [읽어야 할 책]
 - [Java의 정석: 기초편 세트](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492049&orderClick=LOA&Kc=)
 - [그림으로 공부하는 IT 인프라 구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665209&orderClick=LEa&Kc=)
@@ -25,12 +24,13 @@
 
 ### [다 본 책]
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
+- [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)
 ---
 ### [보고 있는 강의]
 - [비전공자를 위한 운영체제(감자)](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
+- [Spring Boot를 이용한 RESTful Web Services 개발(이도원)](https://www.inflearn.com/course/spring-boot-restful-web-services#curriculum)
 ### [볼 예정인 강의]
 - [스프링부트 개념정리 이론(최주호)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#curriculum)
-- [Spring Boot를 이용한 RESTful Web Services 개발(이도원)](https://www.inflearn.com/course/spring-boot-restful-web-services#curriculum)
 - [객체 지향 프로그래밍 입문(최범균)](https://www.inflearn.com/course/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8#curriculum)
 - [스프링 핵심 원리 - 고급편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
 ### [다 본 강의]
