@@ -1,6 +1,6 @@
 개인적으로 책정한 우선순위는 **위->아래**입니다.
 
-**토비의 스프링을 보기 전에 김영한님 강의를 먼저 보는 것을 권장드립니다.**
+**스프링을 잘 모른다면 김영한님 강의를 먼저 보시고 토비의 스프링을 보는 것을 권장드립니다.**
 
 ### [책]
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
