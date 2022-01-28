@@ -40,3 +40,4 @@
 - [스프링부트 개념정리 이론(최주호)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#curriculum)
 - [객체 지향 프로그래밍 입문(최범균)](https://www.inflearn.com/course/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%9E%85%EB%AC%B8#curriculum)
 - [스프링 핵심 원리 - 고급편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
+- [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
