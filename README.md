@@ -21,6 +21,7 @@
 - [도메인 주도 설계 핵심](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=33090105&barcode=9791161750576)
 - [오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331501&barcode=9791158391409)
 - [JAVA 객체지향 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968480911&orderClick=LEa&Kc=)
+- [Head First Design Patterns(절판됨)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788979143409)
 - [GoF의 디자인 패턴 :재사용성을 지닌 객체지향 소프트웨어의 핵심요소](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LAG&Kc=)   
 - [리팩터링](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242742&orderClick=LEa&Kc=)
 - [자바 성능 튜닝 이야기](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331531&barcode=9788966260928)
