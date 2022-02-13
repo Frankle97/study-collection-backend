@@ -46,5 +46,5 @@
 - [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
 
 ## 세미나
-[[우아한테크세미나] 우아한객체지향 by 조영호님(오브젝트 저자)](https://www.youtube.com/watch?v=dJ5C4qRqAgA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
-[[우아한테크세미나] 우아한레디스 by 강대명님](https://www.youtube.com/watch?v=mPB2CZiAkKM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+- [[우아한테크세미나] 우아한객체지향 by 조영호님(오브젝트 저자)](https://www.youtube.com/watch?v=dJ5C4qRqAgA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+- [[우아한테크세미나] 우아한레디스 by 강대명님](https://www.youtube.com/watch?v=mPB2CZiAkKM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
