@@ -4,7 +4,7 @@
 💡 **스프링에 익숙하지 않다면 김영한님 강의를 먼저 보고 토비의 스프링을 보는 것을 권장합니다.**
 
 
-### [책]
+## 책
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
 - [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)
@@ -29,8 +29,8 @@
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158&orderClick=LEa&Kc=)
 - [소프트웨어 장인](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330113&barcode=9791186659489)
 - [클린 아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LEa&Kc=)
----
-### [강의]
+
+## 강의
 - [그림으로 쉽게 배우는 운영체제(감자)](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
 - [제대로 파는 Git & GitHub(얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
 - [자바의 정석 기초편 - 객체지향의 개념](https://youtube.com/playlist?list=PLW2UjW795-f5JPTsYHGAawAck9cQRw5TD)
@@ -44,3 +44,7 @@
 - [스프링부트 개념정리 이론(최주호)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#curriculum)
 - [스프링 핵심 원리 - 고급편(김영한)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B3%A0%EA%B8%89%ED%8E%B8)
 - [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
+
+## 세미나
+[[우아한테크세미나] 우아한객체지향 by 조영호님(오브젝트 저자)](https://www.youtube.com/watch?v=dJ5C4qRqAgA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+[[우아한테크세미나] 우아한레디스 by 강대명님](https://www.youtube.com/watch?v=mPB2CZiAkKM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
