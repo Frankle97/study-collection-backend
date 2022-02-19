@@ -3,6 +3,9 @@
 백엔드 개발자에게 도움이 되는 양질의 공부 자료들을 정리하기 위한 저장소입니다.<br/>
 많은 분들의 학습과 성장에 도움이 되기를 바랍니다.
 
+카테고리별 난이도와 효율성을 고려하여 봐야 할 순서는 위에서부터 아래로 정렬하였습니다.<br/>
+저도 아직 모든 자료를 다 보지 못했기 때문에, 자료 및 우선순위 등의 피드백은 Issues를 통해 부탁드립니다!
+
 > 스프링에 익숙하지 않다면 김영한님 강의로 시작하시는 것을 추천드립니다.
 
 ## 도서
@@ -42,9 +45,12 @@
 - [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965402602&orderClick=LAG&Kc=)
 - [자바 ORM 표준 JPA 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960777330&orderClick=LEa&Kc=)
 
+### 테스트 주도 개발(TDD)
+- [테스트 주도 개발 시작하기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788980783052&orderClick=LEa&Kc=)
+- [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330202&barcode=9788966261024)
+
 
 ### 리팩토링
-- [테스트 주도 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330202&barcode=9788966261024)
 - [리팩터링](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242742&orderClick=LEa&Kc=)
 - [클린 코드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260959&orderClick=LEa&Kc=)
 
