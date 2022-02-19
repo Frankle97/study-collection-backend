@@ -1,6 +1,15 @@
- 👋 **스프링에 익숙하지 않다면 김영한님의 강의로 시작하시는 것을 추천드립니다.**
+# 소개
+
+백엔드 개발자를 위한 양질의 공부 자료들을 정리하기 위한 저장소입니다.<br/>
+많은 분들의 공부와 성장에 도움이 되기를 바랍니다.
+
+자료들은 주인장의 현재 기술 스택과 관심사에 따라 포커싱 되어 있습니다.
+> `Java` `Spring`
+
+👋 스프링에 익숙하지 않다면 김영한님 강의로 시작하시는 것을 추천드립니다.
 
 ## 도서
+
 ### 자바
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
 - [이펙티브 자바](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262281&orderClick=LEa&Kc=)
@@ -36,7 +45,7 @@
 ### 디자인 패턴
 - [JAVA 객체지향 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968480911&orderClick=LEa&Kc=)
 - [Head First Design Patterns(절판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788979143409)
-- [GoF의 디자인 패턴 :재사용성을 지닌 객체지향 소프트웨어의 핵심요소](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LAG&Kc=) 
+- [GoF의 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LAG&Kc=) 
 
 
 ### 리팩터링
