@@ -1,6 +1,6 @@
 개인적으로 책정한 우선순위는 **위->아래**입니다.
 
-💡 **스프링에 익숙하지 않다면 김영한님 강의를 먼저 보고 토비의 스프링을 보는 것을 권장합니다.**
+💡 **스프링에 익숙하지 않다면 김영한님의 강의 먼저 보시는 것을 추천합니다.**
 
 ## 책
 ### 자바
@@ -15,6 +15,7 @@
 
 
 ### 스프링
+- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965402602&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
 - [스프링 배치 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161755168&orderClick=LEa&Kc=)
