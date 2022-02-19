@@ -80,7 +80,7 @@
 - [스프링 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/373)
 - [Spring Boot를 이용한 RESTful Web Services 개발(이도원)](https://www.inflearn.com/course/spring-boot-restful-web-services#curriculum)
 - [스프링부트 개념정리 이론(최주호)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#curriculum)
-
+- [스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/149)
 
 ### 기타
 - [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
