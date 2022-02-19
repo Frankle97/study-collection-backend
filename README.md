@@ -2,7 +2,7 @@
 
  **스프링에 익숙하지 않다면 김영한님의 강의 먼저 보시는 것을 추천합니다.**
 
-## 책
+## 
 ### 자바
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
 - [이펙티브 자바](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262281&orderClick=LEa&Kc=)
