@@ -11,6 +11,7 @@
 ## 도서
 
 ### 컴퓨터 구조
+- [한 권으로 읽는 컴퓨터 구조와 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909284&orderClick=LAG&Kc=)
 - [컴퓨터 구조 및 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964214244&orderClick=LEa&Kc=)
 
 ### 운영체제
