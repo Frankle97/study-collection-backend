@@ -10,13 +10,15 @@
 
 ## 도서
 
-### 네트워크 & HTTP
-- [컴퓨터 네트워킹 : 하향식 접근](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185475318)
-- [HTTP 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261208&orderClick=LEa&Kc=)
-
+### 컴퓨터 구조
+- [컴퓨터 구조 및 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788964214244&orderClick=LEa&Kc=)
 
 ### 운영체제
 - [운영체제와 정보기술의 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158903589)
+
+### 네트워크 & HTTP
+- [컴퓨터 네트워킹 : 하향식 접근](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185475318)
+- [HTTP 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261208&orderClick=LEa&Kc=)
 
 
 ### 데이터베이스
