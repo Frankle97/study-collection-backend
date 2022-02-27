@@ -28,8 +28,8 @@
 - [SQL 레벨업](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968482519)
 - [Real MySQL 8.0 1권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392703&orderClick=LEa&Kc=)
 - [Real MySQL 8.0 2권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392727&orderClick=LEa&Kc=)
-- 데이터베이스 인터널스
-- 데이터 중심 어플리케이션 설계
+- [데이터베이스 인터널스](http://kyobo.link/ttmL)
+- [데이터 중심 어플리케이션 설계](http://kyobo.link/Gxg2)
 
 
 ### 자바
