@@ -41,6 +41,7 @@
 
 ### 객체지향
 - [객체 지향의 사실과 오해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEa&Kc=)
+- [엘레강트 오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791187497219#book_info)
 - [오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331501&barcode=9791158391409)
 
 
