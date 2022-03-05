@@ -30,7 +30,6 @@
 - [Real MySQL 8.0 2권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392727&orderClick=LEa&Kc=)
 - [친절한 SQL 튜닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196395704&orderClick=LAG&Kc=)
 - [데이터베이스 인터널스](http://kyobo.link/ttmL)
-- [데이터 중심 어플리케이션 설계](http://kyobo.link/Gxg2)
 
 
 ### 자바
@@ -51,7 +50,6 @@
 ### 스프링
 - [토비의 스프링 3.1 vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
-- [스프링 부트와 AWS로 혼자 구현하는 웹 서비스](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965402602&orderClick=LAG&Kc=)
 - [스프링 배치 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161755168&orderClick=LEa&Kc=)
 
 
@@ -84,6 +82,7 @@
 - [클린 아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LEa&Kc=)
 - [도메인 주도 설계로 시작하는 마이크로서비스 개발](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392468&orderClick=LAG&Kc=)
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158&orderClick=LEa&Kc=)
+- [데이터 중심 어플리케이션 설계](http://kyobo.link/Gxg2)
 
 
 ### 소프트웨어 공학
@@ -91,6 +90,9 @@
 - [클린 소프트웨어](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890852&orderClick=LEa&Kc=)
 - [웹 개발자를 위한 대규모 서비스를 지탱하는 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994506128&orderClick=LEa&Kc=)
 - [소프트웨어 장인](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330113&barcode=9791186659489)
+
+### 빅데이터
+- [실전 카프카 개발부터 운영까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909345&orderClick=LAG&Kc=)
 
 
 ### 교양
