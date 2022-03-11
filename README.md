@@ -19,7 +19,7 @@
 
 
 ### 네트워크 & HTTP
-- [컴퓨터 네트워킹 : 하향식 접근](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791185475318)
+- [성공과 실패를 결정하는 1%의 네트워크 원리](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788931556742&orderClick=LEa&Kc=)
 - [HTTP 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261208&orderClick=LEa&Kc=)
 
 
