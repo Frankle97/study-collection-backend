@@ -74,7 +74,7 @@
 
 ### 디자인 패턴
 - [JAVA 객체지향 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968480911&orderClick=LEa&Kc=)
-- [Head First Design Patterns(절판)](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788979143409)
+- [헤드 퍼스트 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245262&orderClick=LEa&Kc=)
 - [GoF의 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LAG&Kc=) 
 
 
