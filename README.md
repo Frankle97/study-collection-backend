@@ -51,7 +51,6 @@
 - [스프링 입문을 위한 자바 객체 지향의 원리와 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139940&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
-- [스프링 배치 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161755168&orderClick=LEa&Kc=)
 
 
 ### ORM
