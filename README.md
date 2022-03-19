@@ -93,7 +93,7 @@
 
 ### 빅데이터
 - [실전 카프카 개발부터 운영까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909345&orderClick=LAG&Kc=)
-
+- [엘라스틱 스택 개발부터 운영까지](http://kyobo.link/pq0G)
 
 ### 교양
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
