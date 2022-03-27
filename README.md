@@ -97,7 +97,7 @@
 - [함께 자라기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262335&orderClick=LEa&Kc=)
 - [소프트웨어 장인](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=330113&barcode=9791186659489)
 - [실용주의 프로그래머](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263363&orderClick=LAG&Kc=)
-
+- [프로그래머의 뇌](http://kyobo.link/b6gp)
 
 ## 강의
 ### Git
