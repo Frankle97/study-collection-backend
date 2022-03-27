@@ -70,7 +70,7 @@
 ### 도메인 주도 설계(DDD)
 - [도메인 주도 개발 시작하기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245385&orderClick=LEa&Kc=)  
 - [도메인 주도 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939850&orderClick=LEa&Kc=)
-
+- [도메인 주도 설계 구현](http://kyobo.link/ZczQ)
 
 ### 디자인 패턴
 - [헤드 퍼스트 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245262&orderClick=LEa&Kc=)
