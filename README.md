@@ -35,16 +35,17 @@
 - [자바 병렬 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960770485&orderClick=LEa&Kc=)
 - [자바 성능 튜닝 이야기](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331531&barcode=9788966260928)
 
-### 코틀린
-- [코틀린 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165218911&orderClick=LEa&Kc=)
-- [Kotlin in Action](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750712&orderClick=LAG&Kc=)
-- [이펙티브 코틀린](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263370&orderClick=LAG&Kc=)
-
 
 ### 객체지향
 - [객체 지향의 사실과 오해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139766&orderClick=LEa&Kc=)
 - [엘레강트 오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791187497219#book_info)
 - [오브젝트](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&linkClass=331501&barcode=9791158391409)
+
+
+### 코틀린
+- [코틀린 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165218911&orderClick=LEa&Kc=)
+- [Kotlin in Action](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791161750712&orderClick=LAG&Kc=)
+- [이펙티브 코틀린](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263370&orderClick=LAG&Kc=)
 
 
 ### 스프링
@@ -72,6 +73,7 @@
 - [도메인 주도 개발 시작하기](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245385&orderClick=LEa&Kc=)  
 - [도메인 주도 설계](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939850&orderClick=LEa&Kc=)
 - [도메인 주도 설계 구현](http://kyobo.link/ZczQ)
+
 
 ### 디자인 패턴
 - [헤드 퍼스트 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245262&orderClick=LEa&Kc=)
