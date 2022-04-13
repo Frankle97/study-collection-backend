@@ -54,7 +54,7 @@
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
 
 
-### ORM
+### JPA
 - [자바 ORM 표준 JPA 프로그래밍](http://kyobo.link/TIIw)
 
 
