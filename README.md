@@ -35,6 +35,7 @@
 
 ### 자바
 - [Java의 정석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994492032&orderClick=LEa&Kc=)
+- [스프링 입문을 위한 자바 객체 지향의 원리와 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139940&orderClick=LAG&Kc=)
 - [모던 자바 인 액션](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162242025&orderClick=LEa&Kc=)
 - [이펙티브 자바 3/E](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262281&orderClick=LEa&Kc=)
 - [자바 병렬 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960770485&orderClick=LEa&Kc=)
@@ -48,7 +49,6 @@
 
 
 ### 스프링
-- [스프링 입문을 위한 자바 객체 지향의 원리와 이해](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788998139940&orderClick=LAG&Kc=)
 - [자바 웹 프로그래밍 Next Step](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788997924240&orderClick=LEa&Kc=)
 - [토비의 스프링 3.1 vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773417&orderClick=LAG&Kc=)
 - [토비의 스프링 3.1 vol.2](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788960773424&orderClick=LAG&Kc=)
