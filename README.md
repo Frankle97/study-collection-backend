@@ -91,8 +91,8 @@
 ### 소프트웨어 공학
 - [Code Complete 코드 컴플리트 2/E](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390600&orderClick=LAG&Kc=)
 - [클린 소프트웨어](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890852&orderClick=LEa&Kc=)
-- [웹 개발자를 위한 대규모 서비스를 지탱하는 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994506128&orderClick=LEa&Kc=)
 - [소트웍스 앤솔러지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939249&orderClick=LAG&Kc=)
+- [웹 개발자를 위한 대규모 서비스를 지탱하는 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994506128&orderClick=LEa&Kc=)
 
 ### 빅데이터
 - [실전 카프카 개발부터 운영까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909345&orderClick=LAG&Kc=)
