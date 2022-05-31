@@ -117,7 +117,10 @@
 
 ### 운영체제
 - [그림으로 쉽게 배우는 운영체제(감자)](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
-- [운영체제(반효경)](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
+- [KOCW 운영체제(반효경)](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
+
+### 네트워크
+- [KOCW 컴퓨터네트워크(이석복)](http://www.kocw.or.kr/home/cview.do?cid=6166c077e545b736)
 
 
 ### 자바
