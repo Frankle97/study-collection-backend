@@ -82,7 +82,6 @@
 - [헤드 퍼스트 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162245262&orderClick=LEa&Kc=)
 - [GoF의 디자인 패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791195444953&orderClick=LAG&Kc=) 
 
-
 ### 아키텍처
 - [클린 아키텍처](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966262472&orderClick=LEa&Kc=)
 - [클린 아키텍처(만들면서 배우는)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392758&orderClick=LEa&Kc=)
@@ -90,16 +89,19 @@
 - [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966263158&orderClick=LEa&Kc=)
 - [데이터 중심 어플리케이션 설계](http://kyobo.link/Gxg2)
 
+
 ### 인프라
 - [그림으로 공부하는 IT 인프라 구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665209&orderClick=LEa&Kc=)
 - [컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165215743&orderClick=LAG&Kc=)
 - [쿠버네티스 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791165216283&orderClick=LEa&Kc=)
+
 
 ### 소프트웨어 공학
 - [Code Complete 코드 컴플리트 2/E](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390600&orderClick=LAG&Kc=)
 - [클린 소프트웨어](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890852&orderClick=LEa&Kc=)
 - [소트웍스 앤솔러지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939249&orderClick=LAG&Kc=)
 - [웹 개발자를 위한 대규모 서비스를 지탱하는 기술](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788994506128&orderClick=LEa&Kc=)
+
 
 ### 빅데이터
 - [실전 카프카 개발부터 운영까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791189909345&orderClick=LAG&Kc=)
@@ -116,9 +118,14 @@
 - [제대로 파는 Git & GitHub(얄코)](https://www.inflearn.com/course/%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%8C%8C%EB%8A%94-%EA%B9%83)
 
 
+### 개발도구
+- [IntelliJ를 시작하시는 분들을 위한 IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide)
+
+
 ### 운영체제
 - [그림으로 쉽게 배우는 운영체제(감자)](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
 - [KOCW 운영체제(반효경)](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
+
 
 ### 네트워크
 - [KOCW 컴퓨터네트워크(이석복)](http://www.kocw.or.kr/home/cview.do?cid=6166c077e545b736)
@@ -136,11 +143,9 @@
 - [스프링부트 개념정리 이론(최주호)](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC#curriculum)
 - [스프링 부트와 JPA 실무 완전 정복 로드맵(김영한)](https://www.inflearn.com/roadmaps/149)
 
-### 기타
-- [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
-
 
 ## 세미나
 - [[우아한테크세미나] 우아한객체지향 by 조영호님](https://www.youtube.com/watch?v=dJ5C4qRqAgA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [[우아한테크세미나] 우아한레디스 by 강대명님](https://www.youtube.com/watch?v=mPB2CZiAkKM&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [[우아한테크세미나] TDD 리팩토링 by 자바지기 박재성님](https://www.youtube.com/watch?v=bIeqAlmNRrA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
+- [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
