@@ -23,6 +23,7 @@
 ### 데이터베이스
 - [데이터베이스 첫걸음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788968487316&orderClick=LEa&Kc=)
 - [SQL 레벨업](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968482519)
+- [업무에 바로 쓰는 SQL 튜닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&barcode=9791162244500)
 - [친절한 SQL 튜닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196395704&orderClick=LAG&Kc=)
 - [Real MySQL 8.0 1권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392703&orderClick=LEa&Kc=)
 - [Real MySQL 8.0 2권](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158392727&orderClick=LEa&Kc=)
