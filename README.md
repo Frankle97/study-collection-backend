@@ -98,6 +98,7 @@
 
 
 ### 소프트웨어 공학
+- [UML 실전에서는 이것만 쓴다](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788991268937)
 - [Code Complete 코드 컴플리트 2/E](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158390600&orderClick=LAG&Kc=)
 - [클린 소프트웨어](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890852&orderClick=LEa&Kc=)
 - [소트웍스 앤솔러지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788992939249&orderClick=LAG&Kc=)
