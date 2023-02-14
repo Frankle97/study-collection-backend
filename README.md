@@ -123,6 +123,10 @@
 - [IntelliJ를 시작하시는 분들을 위한 IntelliJ 가이드](https://www.inflearn.com/course/intellij-guide)
 
 
+### 컴퓨터 과학
+- [모두를 위한 컴퓨터 과학 (CS50 2019)](www.boostcourse.org/cs112)
+
+
 ### 운영체제
 - [그림으로 쉽게 배우는 운영체제(감자)](https://www.inflearn.com/course/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C#curriculum)
 - [KOCW 운영체제(반효경)](http://www.kocw.or.kr/home/cview.do?mty=p&kemId=1046323)
