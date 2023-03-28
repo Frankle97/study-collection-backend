@@ -58,7 +58,7 @@
 
 
 ### JPA
-- [자바 ORM 표준 JPA 프로그래밍](http://kyobo.link/TIIw)
+- [자바 ORM 표준 JPA 프로그래밍](https://product.kyobobook.co.kr/detail/S000000935744)
 
 
 ### 테스트 주도 개발(TDD)
