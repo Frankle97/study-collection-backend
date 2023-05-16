@@ -155,3 +155,7 @@
 - [[우아한테크세미나] TDD 리팩토링 by 자바지기 박재성님](https://www.youtube.com/watch?v=bIeqAlmNRrA&ab_channel=%EC%9A%B0%EC%95%84%ED%95%9CTech)
 - [[NHN FORWARD 2021] Redis 야무지게 사용하기](https://youtu.be/92NizoBL4uA)
 - [클린 코더스(백명석)](https://www.youtube.com/watch?v=60lLSe1phks&list=PLeQ0NTYUDTmMM71Jn1scbEYdLFHz5ZqFA&ab_channel=%EB%B0%B1%EB%AA%85%EC%84%9D)
+
+
+## 아티클
+- [Azure 아키텍처 센터](https://learn.microsoft.com/ko-kr/azure/architecture/)
